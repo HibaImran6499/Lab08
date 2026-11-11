@@ -1,5 +1,5 @@
   <footer>
-    <p>&copy; 2026 YourName - COS10026</p>
+    <p>&copy; 2026 Hiba Imran - COS10026</p>
   </footer>
 </body>
 </html>
